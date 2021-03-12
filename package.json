@@ -1,0 +1,25 @@
+{
+  "name": "easyeda-extension-directory",
+  "version": "1.0.0",
+  "description": "EasyEDA extension directory builder",
+  "main": "index.js",
+  "scripts": {
+    "build": "npx ./scripts/build-readme.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/turbobabr/easyeda-extension-directory.git"
+  },
+  "keywords": [
+    "easy-eda"
+  ],
+  "author": "Andrey Shakhmin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/turbobabr/easyeda-extension-directory/issues"
+  },
+  "homepage": "https://github.com/turbobabr/easyeda-extension-directory#readme",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
+}

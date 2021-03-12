@@ -1,0 +1,53 @@
+[
+    {
+        "title": "SVG Import",
+        "description": "Import SVG files to PCB without any distortions!",
+        "author": "Andreas Bernhofer",
+        "owner": "xsrf",
+        "name": "easyeda-svg-import"
+    },
+    {
+        "title": "Label Maker",
+        "description": "Create beautiful labels with solid background for your PCBs.",
+        "author": "Andreas Bernhofer",
+        "owner": "xsrf",
+        "name": "easyeda-labelmaker"
+    },    
+    {
+        "title": "Toggle View",
+        "description": "Switch PCB view between Top and Bottom view.",
+        "author": "Andreas Bernhofer",
+        "owner": "xsrf",
+        "name": "easyeda-toggleview"
+    },
+    {
+        "title": "Themes",
+        "description": "Additional Light and Dark themes for EasyEDA.",
+        "author": "Fiercest",
+        "owner": "FiercestT",
+        "name": "EasyEdaThemes"
+    },
+    {
+        "title": "Main Menu UX Normalizer",
+        "description": "Removing annoying menu popovers on mouseover event.",
+        "author": "Andrey Shakhmin",
+        "owner": "turbobabr",
+        "name": "easyeda-extension-menu-ux-normalizer"
+    },
+    {
+        "title": "QR Code Generator",
+        "description": "Generate and add QR Codes to PCB.",
+        "author": "Andrey Shakhmin",
+        "owner": "turbobabr",
+        "name": "easyeda-qrcode-generator-extension"
+    },
+    {
+        "title": "Quick Align",
+        "description": "Objects alignment without a hassle!",
+        "author": "Andrey Shakhmin",
+        "owner": "turbobabr",
+        "name": "easyeda-quick-align-extension"
+    }
+]
+
+ 
