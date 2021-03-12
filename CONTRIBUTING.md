@@ -8,7 +8,7 @@ To add a new extension to the directory:
 
 `extension.json` file is an array of entries, where each entry describes a certain extension. Each entry should contain the following properties:
 
-```json
+```js
 {
   "title": "Quick Align", // Title of the extension that shows up as a link in README.md
   "description": "Objects alignment without a hassle!", // Short description
