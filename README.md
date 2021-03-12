@@ -2,7 +2,7 @@
 
 A list of EasyEDA extensions hosted at GitHub, in alphabetical order.
 
-*Note:* if you want to add yours, just send a pull request by following instructions described in [CONTRIBUTING.md](./CONTRIBUTING.md). Once your extension is added here, it will appear in this list as soon as your pull request is processed (that can take anywhere from a few minutes to a few days).
+**Note:** if you want to add yours, just send a pull request by following instructions described in [CONTRIBUTING.md](./CONTRIBUTING.md). Once your extension is added here, it will appear in this list as soon as your pull request is processed (that can take anywhere from a few minutes to a few days).
 
 - [Label Maker](https://github.com/xsrf/easyeda-labelmaker) by Andreas Bernhofer: Create beautiful labels with solid background for your PCBs.
 - [Main Menu UX Normalizer](https://github.com/turbobabr/easyeda-extension-menu-ux-normalizer) by Andrey Shakhmin: Removing annoying menu popovers on mouseover event.
