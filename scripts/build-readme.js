@@ -18,7 +18,8 @@ const buildExtensionUrl = (extension) => {
     Utils.writeFile(
       path.resolve(__dirname, '../README.md'),
       Utils.readAndReplaceTextFile(path.resolve(__dirname, '../templates/README.template.md'), {
-        alphabetical: list.join('\n')
+        alphabetical: list.join('\n'),
+        count: extensions.length
       })
     );
 
