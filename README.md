@@ -11,3 +11,4 @@ A list of EasyEDA extensions hosted at GitHub, in alphabetical order.
 - [SVG Import](https://github.com/xsrf/easyeda-svg-import) by Andreas Bernhofer: Import SVG files to PCB without any distortions!
 - [Themes](https://github.com/FiercestT/EasyEdaThemes) by Fiercest: Additional Light and Dark themes for EasyEDA.
 - [Toggle View](https://github.com/xsrf/easyeda-toggleview) by Andreas Bernhofer: Switch PCB view between Top and Bottom view.
+- [iBom for EasyEDA](https://github.com/turbobabr/easyeda-ibom-extension) by Andrey Shakhmin: Use InteractiveHTMLBOM right within EasyEDA!
