@@ -9,9 +9,12 @@ const buildExtensionUrl = (extension) => {
 };
 
 (function () {
+
+  
+
   try {
     const extensions = Utils.readJSON(path.resolve(__dirname, '../extensions.json'));
-    const list = _.map(_.sortBy(extensions, obj => obj.title), (extension) => {
+    const list = _.map(_.sortBy(extensions, obj => obj.title.toLowerCase()), (extension) => {
       return `- [${extension.title}](${buildExtensionUrl(extension)}) by ${extension.author}: ${extension.description}`;
     });
 
