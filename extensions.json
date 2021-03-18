@@ -60,6 +60,6 @@
     "description": "Rounds your track corners and adds nicer teardrops",
     "author": "Matt Shepcar",
     "owner": "mattshepcar",
-    "name": "easyeda-scripts"
+    "name": "easyeda-round-tracks"
   }
 ]
