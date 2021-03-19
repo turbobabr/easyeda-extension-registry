@@ -1,4 +1,4 @@
-# EasyEDA Extension Directory (8)
+# EasyEDA Extension Directory (9)
 
 A list of EasyEDA extensions hosted at GitHub, in alphabetical order.
 
@@ -9,6 +9,7 @@ A list of EasyEDA extensions hosted at GitHub, in alphabetical order.
 - [Main Menu UX Normalizer](https://github.com/turbobabr/easyeda-extension-menu-ux-normalizer) by Andrey Shakhmin: Removing annoying menu popovers on mouseover event.
 - [QR Code Generator](https://github.com/turbobabr/easyeda-qrcode-generator-extension) by Andrey Shakhmin: Generate and add QR Codes to PCB.
 - [Quick Align](https://github.com/turbobabr/easyeda-quick-align-extension) by Andrey Shakhmin: Objects alignment without a hassle!
+- [Smooth Tracks](https://github.com/mattshepcar/easyeda-round-tracks) by Matt Shepcar: Rounds your track corners and adds nicer teardrops
 - [SVG Import](https://github.com/xsrf/easyeda-svg-import) by Andreas Bernhofer: Import SVG files to PCB without any distortions!
 - [Themes](https://github.com/FiercestT/EasyEdaThemes) by Fiercest: Additional Light and Dark themes for EasyEDA.
 - [Toggle View](https://github.com/xsrf/easyeda-toggleview) by Andreas Bernhofer: Switch PCB view between Top and Bottom view.
