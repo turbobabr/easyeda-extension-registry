@@ -54,5 +54,12 @@
     "author": "Andrey Shakhmin",
     "owner": "turbobabr",
     "name": "easyeda-quick-align-extension"
+  },
+  {
+    "title": "Smooth Tracks",
+    "description": "Rounds your track corners and adds nicer teardrops",
+    "author": "Matt Shepcar",
+    "owner": "mattshepcar",
+    "name": "easyeda-round-tracks"
   }
 ]
