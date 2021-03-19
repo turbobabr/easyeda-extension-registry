@@ -1,10 +1,10 @@
 # Contributing
 
-To add a new extension to the directory:
+To add a new extension to the registry:
 
 1. Fork the repo (create a new branch as well if you want)
 2. Modify `extensions.json` by adding your extension (do not edit `README.md`, it will be automatically generated once your change is merged)
-3. Push your changes to your fork and [submit a pull request](https://github.com/turbobabr/easyeda-extension-directory/compare)
+3. Push your changes to your fork and [submit a pull request](https://github.com/turbobabr/easyeda-extension-registry/compare)
 
 `extension.json` file is an array of entries, where each entry describes a certain extension. Each entry should contain the following properties:
 

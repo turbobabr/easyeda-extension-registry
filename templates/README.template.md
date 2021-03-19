@@ -1,4 +1,4 @@
-# EasyEDA Extension Directory (${count})
+# EasyEDA Extension Registry (${count})
 
 A list of EasyEDA extensions hosted at GitHub, in alphabetical order.
 
