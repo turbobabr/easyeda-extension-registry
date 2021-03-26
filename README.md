@@ -1,4 +1,4 @@
-# EasyEDA Extension Registry (9)
+# EasyEDA Extension Registry (10)
 
 A list of EasyEDA extensions hosted at GitHub, in alphabetical order.
 
@@ -7,6 +7,7 @@ A list of EasyEDA extensions hosted at GitHub, in alphabetical order.
 - [iBom for EasyEDA](https://github.com/turbobabr/easyeda-ibom-extension) by Andrey Shakhmin: Use InteractiveHTMLBOM right within EasyEDA!
 - [Label Maker](https://github.com/xsrf/easyeda-labelmaker) by Andreas Bernhofer: Create beautiful labels with solid background for your PCBs.
 - [Main Menu UX Normalizer](https://github.com/turbobabr/easyeda-extension-menu-ux-normalizer) by Andrey Shakhmin: Removing annoying menu popovers on mouseover event.
+- [PCB Tools](https://github.com/dmwatson/easyeda-pcbtools) by dmwatson: Track Width calculator, which can quickly calculate your needed track width based on amperage and layer type
 - [QR Code Generator](https://github.com/turbobabr/easyeda-qrcode-generator-extension) by Andrey Shakhmin: Generate and add QR Codes to PCB.
 - [Quick Align](https://github.com/turbobabr/easyeda-quick-align-extension) by Andrey Shakhmin: Objects alignment without a hassle!
 - [Smooth Tracks](https://github.com/mattshepcar/easyeda-round-tracks) by Matt Shepcar: Rounds your track corners and adds nicer teardrops

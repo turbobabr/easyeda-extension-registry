@@ -61,5 +61,12 @@
     "author": "Matt Shepcar",
     "owner": "mattshepcar",
     "name": "easyeda-round-tracks"
+  },
+  {
+    "title": "PCB Tools",
+    "description": "Track Width calculator, which can quickly calculate your needed track width based on amperage and layer type",
+    "author": "dmwatson",
+    "owner": "dmwatson",
+    "name": "easyeda-pcbtools"
   }
 ]
