@@ -68,5 +68,12 @@
     "author": "dmwatson",
     "owner": "dmwatson",
     "name": "easyeda-pcbtools"
+  },
+  {
+    "title": "EasyEDA-Tools",
+    "description": "A set of commands like reusable modules(module renaming + replacing net names), global font replace and net names replacing",
+    "author": "Peter Yuen",
+    "owner": "ppeetteerrs",
+    "name": "EasyEDA-Tools"
   }
 ]
