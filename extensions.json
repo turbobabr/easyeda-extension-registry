@@ -4,76 +4,131 @@
     "description": "Use InteractiveHTMLBOM right within EasyEDA!",
     "author": "Andrey Shakhmin",
     "owner": "turbobabr",
-    "name": "easyeda-ibom-extension"
+    "name": "easyeda-ibom-extension",
+    "locale": {
+      "cn": {
+        "description": "编辑器本地版InteractiveHtmlBom"
+      }
+    }
   },
   {
     "title": "SVG Import",
     "description": "Import SVG files to PCB without any distortions!",
     "author": "Andreas Bernhofer",
     "owner": "xsrf",
-    "name": "easyeda-svg-import"
+    "name": "easyeda-svg-import",
+    "locale": {
+      "cn": {
+        "description": "插入高清SVG图片到PCB"
+      }
+    }
   },
   {
     "title": "Label Maker",
     "description": "Create beautiful labels with solid background for your PCBs.",
     "author": "Andreas Bernhofer",
     "owner": "xsrf",
-    "name": "easyeda-labelmaker"
+    "name": "easyeda-labelmaker",
+    "locale": {
+      "cn": {
+        "description": "快速创建反相文本丝印"
+      }
+    }
   },
   {
     "title": "Toggle View",
     "description": "Switch PCB view between Top and Bottom view.",
     "author": "Andreas Bernhofer",
     "owner": "xsrf",
-    "name": "easyeda-toggleview"
+    "name": "easyeda-toggleview",
+    "locale": {
+      "cn": {
+        "description": "翻转板子底层视图，镜像PCB"
+      }
+    }
   },
   {
     "title": "Themes",
     "description": "Additional Light and Dark themes for EasyEDA.",
     "author": "Fiercest",
     "owner": "FiercestT",
-    "name": "EasyEdaThemes"
+    "name": "EasyEdaThemes",
+    "locale": {
+      "cn": {
+        "description": "修改整个编辑器界面颜色"
+      }
+    }
   },
   {
     "title": "Main Menu UX Normalizer",
     "description": "Removing annoying menu popovers on mouseover event.",
     "author": "Andrey Shakhmin",
     "owner": "turbobabr",
-    "name": "easyeda-extension-menu-ux-normalizer"
+    "name": "easyeda-extension-menu-ux-normalizer",
+    "locale": {
+      "cn": {
+        "description": "阻止鼠标移动到顶部菜单就自动下拉"
+      }
+    }
   },
   {
     "title": "QR Code Generator",
     "description": "Generate and add QR Codes to PCB.",
     "author": "Andrey Shakhmin",
     "owner": "turbobabr",
-    "name": "easyeda-qrcode-generator-extension"
+    "name": "easyeda-qrcode-generator-extension",
+    "locale": {
+      "cn": {
+        "description": "输入文本创建高清二维码图片"
+      }
+    }
   },
   {
     "title": "Quick Align",
     "description": "Objects alignment without a hassle!",
     "author": "Andrey Shakhmin",
     "owner": "turbobabr",
-    "name": "easyeda-quick-align-extension"
+    "name": "easyeda-quick-align-extension",
+    "locale": {
+      "cn": {
+        "description": "元素快速对齐"
+      }
+    }
   },
   {
     "title": "Smooth Tracks",
     "description": "Rounds your track corners and adds nicer teardrops",
     "author": "Matt Shepcar",
     "owner": "mattshepcar",
-    "name": "easyeda-round-tracks"
+    "name": "easyeda-round-tracks",
+    "locale": {
+      "cn": {
+        "description": "创建圆弧型泪滴；布线转为圆弧布线"
+      }
+    }
   },
   {
     "title": "PCB Tools",
     "description": "Track Width calculator, which can quickly calculate your needed track width based on amperage and layer type",
     "author": "dmwatson",
     "owner": "dmwatson",
-    "name": "easyeda-pcbtools"
+    "name": "easyeda-pcbtools",
+    "locale": {
+      "cn": {
+        "description": "根据阻抗计算导线宽度"
+      }
+    }
   },
   {
     "title": "EasyEDA-Tools",
     "description": "A set of commands like reusable modules(module renaming + replacing net names), global font replace and net names replacing",
     "author": "Peter Yuen",
     "owner": "ppeetteerrs",
-    "name": "EasyEDA-Tools"
+    "name": "EasyEDA-Tools",
+    "locale": {
+      "cn": {
+        "description": "修改原理图字体，修改原理图模块网络标签，修改网络名"
+      }
+    }
   }
 ]
