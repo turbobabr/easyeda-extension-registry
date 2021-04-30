@@ -28,8 +28,18 @@ function readJSON(filePath) {
   return JSON.parse(readFile(filePath));
 }
 
+function createDir(dirPath) {  
+  if (!fs.existsSync(dirPath)) {
+      fs.mkdirSync(dirPath);
+      return true;
+  }
+  
+  return !fs.readdirSync(dirPath).length;
+};
+
 module.exports = {
   readAndReplaceTextFile: readAndReplaceTextFile,
   readJSON: readJSON,
-  writeFile: writeFile
+  writeFile: writeFile,
+  createDir: createDir
 };

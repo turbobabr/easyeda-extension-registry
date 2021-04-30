@@ -4,7 +4,9 @@
   "description": "EasyEDA extension registry builder",
   "main": "index.js",
   "scripts": {
-    "build": "npx ./scripts/build-readme.js"
+    "build-readme": "npx ./scripts/build-readme.js",
+    "build-forum-en": "npx ./scripts/build-forum-en.js",
+    "build-forum-cn": "npx ./scripts/build-forum-cn.js"
   },
   "repository": {
     "type": "git",
