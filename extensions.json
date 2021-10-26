@@ -130,5 +130,12 @@
         "description": "修改原理图字体，修改原理图模块网络标签，修改网络名"
       }
     }
+  },
+  {
+    "title": "2D/3D Settings",
+    "description": "Persist 2D/3D view settings for individual PCBs",
+    "author": "joeSeggiola",
+    "owner": "joeSeggiola",
+    "name": "easyeda-2d-3d-settings"
   }
 ]
