@@ -1,9 +1,10 @@
-# EasyEDA Extension Registry (11)
+# EasyEDA Extension Registry (12)
 
 A list of EasyEDA extensions hosted at GitHub, in alphabetical order.
 
 **Note:** if you want to add yours, just send a pull request by following instructions described in [CONTRIBUTING.md](./CONTRIBUTING.md). Once your extension is added here, it will appear in this list as soon as your pull request is processed (that can take anywhere from a few minutes to a few days).
 
+- [2D/3D Settings](https://github.com/joeSeggiola/easyeda-2d-3d-settings) by joeSeggiola: Persist 2D/3D view settings for individual PCBs
 - [EasyEDA-Tools](https://github.com/ppeetteerrs/EasyEDA-Tools) by Peter Yuen: A set of commands like reusable modules(module renaming + replacing net names), global font replace and net names replacing
 - [iBom for EasyEDA](https://github.com/turbobabr/easyeda-ibom-extension) by Andrey Shakhmin: Use InteractiveHTMLBOM right within EasyEDA!
 - [Label Maker](https://github.com/xsrf/easyeda-labelmaker) by Andreas Bernhofer: Create beautiful labels with solid background for your PCBs.
